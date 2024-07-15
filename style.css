@@ -39,6 +39,7 @@
 .banner {
     background-color: #3b5999;
     height: 600px;
+    width: 100%
     text-align: center;
     color: white;
 }
